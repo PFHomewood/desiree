@@ -1,21 +1,16 @@
-#I am...A Project in Becoming
+#Vision Board
 
-This coding tool is a great way to break the ice at begining of your school year. Why not use code to help your students introduce themselves? It's an easy way for you to introduce your students to a little bit of computer science and build their coding literacy.
-
-Students work through the prompts in the index.html code to construct their own web page that exlains who they are and where they are going. I ask that my students actually present their page to the rest of the class. But before we do so--and even while the presentations are going on--I give students time to work together to debug their projects. 
-
-This template also allows the user to mix and match div. blocks should students wish to further customize their work. It's a great introduction to coding that will allow them to use our other tools found: [HERE](https://github.com/pitt-fuego)
-
+Participants will work through the prompts in the index.html code to construct their vision complete with inspirational quotes, music, personal goals, and thankfulness. 
     
 ## Get started! 
 
-1. Go to the I-am-a-project-in-becoming  repository: [HERE](https://github.com/pitt-fuego/I-am-a-project-in-becoming) 
+1. Go to the [Vision Board Template](https://github.com/PFHomewood/vision-board-template) repository in GitHub.
 
 2. Click "Code" then "Download ZIP" to your local computer. 
 
 3. Find this folder in your downloads. Move this folder to a secure place. You will return to this folder to manage your scripts and other assets like images, pdfs, etcetera. 
 
-4. Download and/or open a text editor like [brackets.io](https://brackets.io), [atom.io](https://atom.io), or [notepad-plus-plus.org](notepad-plus-plus.org). 
+4. Download and/or open a text editor like [atom.io](https://atom.io) or [notepad-plus-plus.org](notepad-plus-plus.org). 
 
 5. Use the text editor to open the style.css and index.html documents from your project folder.  
 
@@ -31,7 +26,7 @@ This template also allows the user to mix and match div. blocks should students 
  
 
 
-Check out our other cool coding tools [HERE](https://pitt-fuego.github.io/Pitt-Fuego-Coding-Tools/)
+Check out our other cool coding tools at [PFHomewood](https://github.com/orgs/PFHomewood/dashboard) on GitHub.
 
 
 
