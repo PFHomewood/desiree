@@ -1,4 +1,4 @@
-#Vision Board
+# Vision Board
 
 Participants will work through the prompts in the index.html code to construct their vision complete with inspirational quotes, music, personal goals, and thankfulness. 
     
