@@ -1,6 +1,9 @@
 # Vision Board
 
 Welcome to Vision Board! We'll help you work through the code prompts in the index.html file to construct your *vision*, complete with inspirational quotes, music, personal goals, and thankfulness. Along the way, you'll learn a little about coding and computer science. 
+
+**Vision Quest was designed by Pitt students Carter Keith, Domonique Swift, Janet Majekodunmi, and Makye Daniels.**     
+    
     
 ## Get started or return to edit and host your site on GitHub! 
 
