@@ -1,10 +1,10 @@
-# Vision Board
+#Vision Board
 
 Participants will work through the prompts in the index.html code to construct their vision complete with inspirational quotes, music, personal goals, and thankfulness. 
     
-## Get started! 
+## Get started or return to edit and host your site on GitHub! 
 
-1. Go to the [Vision Board Template](https://github.com/PFHomewood/vision-board-template) repository in GitHub.
+1. Go to the [Vision Board Template](https://github.com/PFHomewood/vision-board-template) repository in GitHub or go to your repository if you made one at a Homewood CEC event.
 
 2. Click "Code" then "Download ZIP" to your local computer. 
 
