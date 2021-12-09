@@ -1,6 +1,6 @@
 # Vision Board
 
-Participants will work through the prompts in the index.html code to construct their vision complete with inspirational quotes, music, personal goals, and thankfulness. 
+Welcome to Vision Board! We'll help you work through the code prompts in the index.html file to construct your *vision*, complete with inspirational quotes, music, personal goals, and thankfulness. Along the way, you'll learn a little about coding and computer science. 
     
 ## Get started or return to edit and host your site on GitHub! 
 
